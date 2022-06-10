@@ -1,0 +1,30 @@
+body {
+    font-family:cursive;
+}
+header{
+    background-image: linear-gradient(to left,black,white,black);
+    padding: 15px;
+    text-align: center;
+}
+.link-header{
+    text-decoration:none;
+    color: black;
+}
+nav{
+    padding-top:20px;
+}
+.link-nav{
+    text-decoration: none;
+    color:#9BED00;
+}
+h1,p{
+    color: #9BED00;
+}
+main{
+    background-image: linear-gradient(to left,black,white,black);
+} h1{
+    text-align: center;
+}
+li{
+    color: #9BED00;
+}
